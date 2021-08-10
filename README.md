@@ -14,10 +14,15 @@
 <h4>Deployed live on https://covid-19-tracker-6b428.web.app/ . Check out!</h4>
 <br>
 
-<h5>Covid Tracker Web App Wire Frame</h5>
-![Covid19 Tracker WireFrame (1)](https://user-images.githubusercontent.com/85113534/128810411-0f0ae1e9-531f-4b05-af72-554e970a221e.jpg)
-<h5>Actual Deployed App</h5>
-![Covid-Tracker](https://user-images.githubusercontent.com/85113534/128810431-47d999b5-9aec-4a88-8e19-4021ff8b5763.png)
+<h5>Covid Tracker Web App Wire Frame</h4>
+
+
+<img src="https://user-images.githubusercontent.com/85113534/128810887-a56097ea-c1d3-4ebd-b43d-0efe17546c00.png" alt="Covid Tracker Web App Wire Frame" />
+<br>
+ <h4>Actual Deployed App</h4>
+<img src="https://user-images.githubusercontent.com/85113534/128810551-c1f4cac2-47ea-48cf-8755-69c0b1e00e87.png" alt="Actual Deployed App" />
+
+
 
 
 
