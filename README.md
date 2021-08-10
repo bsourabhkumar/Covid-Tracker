@@ -1,3 +1,26 @@
+<h1>Covid-19 Tracker App</h1>
+<h4> This Project is built using React.js and its hooks with the help of an API. </h4>
+<h4>Contains map, charts and graphs along with detailed cases of each country in the world. </h4>
+
+<h5>Some key Aspects:</h5>
+
+<ul>
+	<li>Shows Live Cases, Recoveries, Deaths (clickable tabs)</li>
+    <li>Shows Worldwide cases and Country Based cases</li>
+    <li>Line Chart shows fluctuations over days, hover around to see exact figures</li>
+    <li> Clickable Markers on Map show Country stats</li>
+</ul>
+	
+<h4>Deployed live on https://covid-19-tracker-6b428.web.app/ . Check out!</h4>
+<br>
+
+
+![image](https://user-images.githubusercontent.com/85113534/128809156-7a57dadb-26dd-49ef-881a-ebbb04e8ab00.png)
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
